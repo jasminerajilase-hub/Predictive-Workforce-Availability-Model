@@ -52,6 +52,10 @@ The solution helps operations managers proactively identify staffing risks, over
 * Workforce trend forecasting
 
 ---
+## Dashboard Preview
+
+![Dashboard](dashboard/dashboard.png)
+
 
 ## Business Impact
 
