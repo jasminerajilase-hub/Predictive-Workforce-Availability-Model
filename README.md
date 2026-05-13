@@ -52,10 +52,10 @@ The solution helps operations managers proactively identify staffing risks, over
 * Workforce trend forecasting
 
 ---
-## Dashboard Preview
+
 ## Dashboard Preview
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard.png)
 
 
 ## Business Impact
@@ -85,6 +85,3 @@ JASMINE RAJILA BEEVI
 
 
 
-
-
-Your Name
