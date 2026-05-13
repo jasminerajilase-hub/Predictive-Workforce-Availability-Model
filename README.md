@@ -54,7 +54,7 @@ The solution helps operations managers proactively identify staffing risks, over
 ---
 ## Dashboard Preview
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard]dashboard.png
 
 
 ## Business Impact
